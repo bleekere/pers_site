@@ -22,52 +22,17 @@ url: "http://ellibleeker.org" # the base hostname & protocol for your site, e.g.
 twitter_username: ellibleeker
 github_username:  bleekere
 
-display_footer: none  #change this to 'none' if you want to hide the footer copyright text
-
-parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/startup3.jpg
-
-portfolio_heading: Portfolio
-portfolio_type: cards #cards or carousel
-
-project_one: "Mapping Invention in Writing"
-project_one_description: 
-project_one_url: url
-# project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
-
-project_two: "Text Modeling"
-project_two_description: description here
-project_two_url: url
-# project_two_icon: photo_camera
-
-
-project_three: "Automated Collation"
-project_three_description: description here
-project_three_url: url
-# project_three_icon: hotel
-
-
-project_four: "Forgotten Writers"
-project_four_description: Uncovering the writers that history forgot.
-project_four_url: url
-# project_four_icon: restaurant
-
 # Build settings
 markdown: kramdown
-theme: jekyll-material-theme
-permalink: pretty
+theme: minima
 plugins:
     - jekyll-feed
-    - jekyll-assets
-    - jekyll-minifier
-  icon_size: 50 # font-size of icons in px
-colored: colored # Leave blank for black and white icons
 
-project_button: Github
 
-github: https://github.com/bleekere
+display_footer: none  #change this to 'none' if you want to hide the footer copyright text
 
-syntax_highlighting: true # include the css for syntax highlighting
+
+ 
 
 
 # Exclude from processing.
