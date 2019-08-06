@@ -3,6 +3,7 @@ layout: post
 title:  "Mapping invention in writing"
 date:   2019-08-06 15:07:32 +0200
 categories: previous work
+author: "Elli"
 ---
 
 In the French animation movie [Le Tableau (2011)](https://www.imdb.com/title/tt1891769/), three groups of characters co-exist within the painting of a castle: the Toupins (“tout peints”; completely finished), the Pafinis (“pas finis”; not entirely finished) and the Reufs (who are only roughly sketched). The Toupins rule the castle and consider themselves superior. After all, they are the only ones the painter completed, and he must have had his reasons for that. They consider the Pafinis and the Reufs not interesting or even unworthy of existence. In their turn, the Pafinis and the Reufs long for the painter to return and finish his work: surely it could not have been his intention to leave them like that?

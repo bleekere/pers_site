@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Arts and algorithms
+title: Manuscripts, algorithms, and more
 email: elli.bleeker@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Postdoctoral researcher at the Royal Dutch Academy of Arts and Sciences; PhD in Digital Humanities. Equally fascinated by old manuscripts as well as the algorithms to study them.
@@ -22,11 +22,53 @@ url: "http://ellibleeker.org" # the base hostname & protocol for your site, e.g.
 twitter_username: ellibleeker
 github_username:  bleekere
 
+display_footer: none  #change this to 'none' if you want to hide the footer copyright text
+
+parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/startup3.jpg
+
+portfolio_heading: Portfolio
+portfolio_type: cards #cards or carousel
+
+project_one: "Mapping Invention in Writing"
+project_one_description: 
+project_one_url: url
+# project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
+
+project_two: "Text Modeling"
+project_two_description: description here
+project_two_url: url
+# project_two_icon: photo_camera
+
+
+project_three: "Automated Collation"
+project_three_description: description here
+project_three_url: url
+# project_three_icon: hotel
+
+
+project_four: "Forgotten Writers"
+project_four_description: Uncovering the writers that history forgot.
+project_four_url: url
+# project_four_icon: restaurant
+
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-material-theme
+permalink: pretty
 plugins:
-  - jekyll-feed
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-minifier
+  icon_size: 50 # font-size of icons in px
+colored: colored # Leave blank for black and white icons
+
+project_button: Github
+
+github: https://github.com/bleekere
+
+syntax_highlighting: true # include the css for syntax highlighting
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
