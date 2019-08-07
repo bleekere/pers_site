@@ -16,7 +16,7 @@
 title: Manuscripts, algorithms, and more
 email: elli.bleeker@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Postdoctoral researcher at the Royal Dutch Academy of Arts and Sciences; PhD in Digital Humanities. Equally fascinated by old manuscripts as well as the algorithms to study them.
+  Postdoctoral researcher at the Royal Dutch Academy of Arts and Sciences; PhD in Digital Humanities. Equally fascinated by old manuscripts as by the algorithms to study them.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ellibleeker.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ellibleeker
