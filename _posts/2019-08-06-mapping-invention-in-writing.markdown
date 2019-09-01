@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title:  "Mapping invention in writing"
 date:   2019-08-06 15:07:32 +0200
 categories: previous work
